@@ -1,4 +1,4 @@
-# 2048-GAME
+# 2048-Game
 
 A terminal-based implementation of the classic **2048 puzzle game**, written in Java. The board is rendered using Unicode box-drawing characters, and the game is controlled entirely from the keyboard.
  
