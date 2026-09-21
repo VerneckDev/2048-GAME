@@ -113,4 +113,5 @@ Points are awarded whenever two tiles merge. The score increases by the **value 
 ## Authors
 
 **João Pedro Verneck** — [@VerneckDev](https://github.com/VerneckDev)
+
 **João Vitor Andrade** — [@Jonhi7139 ](https://github.com/Jonhi7139 )
